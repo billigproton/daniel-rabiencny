@@ -1,11 +1,16 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: certifications
+img: mscert.png
+alt: Microsoft Certified badge
+description: 'Throughout my journey I earned a bunch of certifications. Here is a link to my <a href="https://www.credly.com/earner/earned" target="_blank" class="anchor-modal">Credly profile</a>. A few of them are: <br><br>
+
+● Microsoft Certified: Azure Fundamentals ✩ <br><br>
+● Microsoft Certified: Azure AI Fundamentals ✩ <br><br>
+● Microsoft Certified: Azure Data Scientist ✩✩ <br><br>
+● Microsoft Certified: Power Platform Fundamentals ✩ <br><br>
+● Microsoft Certified: Power Platform App Maker ✩✩ <br><br>
+● Databricks Lakehouse Fundamentals ✩ <br><br>'
 ---
+

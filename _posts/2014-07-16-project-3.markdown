@@ -2,10 +2,11 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Project Monumen
+img: monumen.png
+alt: logo of the Monumen project
+project-date: March-June 2022
+client: Microsoft Azure (Cognitive Services), Swift
+category: '<a href="https://azurecup.cz/results" target="_blank">AzureCup 2021</a>'  
+description: 'Together with my team we worked on a solution that uses artificial intelligence, runs on the Microsoft Azure cloud platform, and makes it easier for tourists to visit Prague by providing them with information about a landmark they take a picture of. My task was to deploy suitable Azure services for the project. <strong>We came second that year!</strong>'
 ---

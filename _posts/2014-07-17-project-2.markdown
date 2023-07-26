@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2022-06-20
+title: Project Rotty
+img: rotty.png
+alt: Logo of the Rotty project
+project-date: June 2022
+category: '<a href="https://azurecup.cz/results" target="_blank" class="anchor-modal">AzureCup 2022</a>'
+client: Microsoft Azure (Cognitive Services), Power Apps
+description: 'In the 2022 AzureCup competition, <a href="https://www.linkedin.com/in/annasurovkova/" target="_blank" class="anchor-modal">Anna Surovkova</a> and I decided to tackle the problem of inadequate awareness among people about proper sorting of organic waste under the project named Rotty. The project consists of several parts. Our output was an application that directly connects a user to a local waste company to order a organic waste collection. My job was to integrate Microsoft technologies like Power Apps and Microsoft Azure to build a working solution. <strong>We managed to win the competition!</strong>'
 ---

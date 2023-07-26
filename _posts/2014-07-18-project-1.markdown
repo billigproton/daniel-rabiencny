@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-title: certifications
+title: certificates
 img: mscert.png
 alt: Microsoft Certified badge
 description: 'Throughout my journey I earned a bunch of certifications. Here is a link to my <a href="https://www.credly.com/earner/earned" target="_blank" class="anchor-modal">Credly profile</a>. A few of them are: <br><br>
